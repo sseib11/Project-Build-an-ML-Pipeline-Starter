@@ -145,3 +145,7 @@ mlruns/
 outputs/
 random_forest_dir/
 multirun/
+
+# Generated files
+rf_config.json
+src/basic_cleaning/clean_sample.csv
